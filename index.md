@@ -1,8 +1,10 @@
 # Giveaway for Free Dragon Ball Fighterz Redeem Code Generator Console Digital Editions For 2019
 
-You can use the [editor on GitHub](https://github.com/techymech/digitalcodes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dragon Ball is the biggest anime ever and fans now finally have an amazing game in this free dragon ball fighter z redeem code generator that is available to everyone who jumps on it fast enough. This promotion is giving away freebie digital verisons of the game just waiting to be taken by fans on the console versions of the game including xbox one, ps4, and nintendo switch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GET THE DIGITAL DOWNLOAD CODES HERE GUYS ONLY A FEW DOZEN LEFT](https://github.com/techymech/digitalcodes/edit/master/index.md)
+
+[image](https://i5.walmartimages.ca/images/Large/906/733/6000197906733.jpg)
 
 ### Markdown
 
