@@ -4,7 +4,7 @@ Dragon Ball is the biggest anime ever and fans now finally have an amazing game 
 
 [GET THE DIGITAL DOWNLOAD CODES HERE GUYS ONLY A FEW DOZEN LEFT](https://github.com/techymech/digitalcodes/edit/master/index.md)
 
-[image](https://i5.walmartimages.ca/images/Large/906/733/6000197906733.jpg)
+![Image](https://i5.walmartimages.ca/images/Large/906/733/6000197906733.jpg)
 
 ### Markdown
 
