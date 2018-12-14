@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: New Free Dragon Ball FighterZ Redeem Code Generator Switch Xbox One and PS4 Digital
 description: All DB anime fans can now get a free dragon ball figherz redeem code generator for the digital console game today!
-google_verify: Cr90cv8IbNN9V4uk9n_MONX9sl8ca_0CoMb36t5vynU
+plugins:
+  - jekyll-seo-tag
+  <meta name="google-site-verification" content="Cr90cv8IbNN9V4uk9n_MONX9sl8ca_0CoMb36t5vynU" />
